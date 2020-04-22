@@ -9,6 +9,8 @@ int minValue = 200;
 float periodLength = 0.2;
 float delayFactor = (periodLength/(maxValue-minValue)) * 1000;  
 
+// "/" means "divide by" and "*" means "multiply by"
+
 int value;
 
 void setup() {

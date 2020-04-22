@@ -1,3 +1,8 @@
+
+// All the lines starting with "//" are comments and are used to
+// explain what we do in the code. Make sure to comment all the 
+// stuff you do that is not super trivial
+
 void setup() {
   // initialize pin LED_BUILTIN as an output
   pinMode(LED_BUILTIN, OUTPUT);
