@@ -22,7 +22,8 @@ Dive a bit deeper into programming and its concepts. Learn about
 Use your gathered skills to connect your Arduino to a selection
 of various sensors, actuators and displays. We only cover a few
 selected parts: **Distance sensor (ultrasonic)**, **joystick**,
-**stepper motor**, **servo motor**, **LCD**, **7-segment display**.
+**stepper motor**, **servo motor**, **LCD**, **7-segment display**
+and lastly the **shift register** to manage a lot of output pins.
 
 However the methods are the same for nearly every other Arduino 
 part you can get.
